@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\EjemploCommand\EjemploCommand\bin\Debug\net5.0\EjemploCommand.exe
+C:\Users\Usuario\source\repos\EjemploCommand\EjemploCommand\bin\Debug\net5.0\EjemploCommand.deps.json
+C:\Users\Usuario\source\repos\EjemploCommand\EjemploCommand\bin\Debug\net5.0\EjemploCommand.runtimeconfig.json
+C:\Users\Usuario\source\repos\EjemploCommand\EjemploCommand\bin\Debug\net5.0\EjemploCommand.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\EjemploCommand\EjemploCommand\bin\Debug\net5.0\EjemploCommand.dll
+C:\Users\Usuario\source\repos\EjemploCommand\EjemploCommand\bin\Debug\net5.0\ref\EjemploCommand.dll
+C:\Users\Usuario\source\repos\EjemploCommand\EjemploCommand\bin\Debug\net5.0\EjemploCommand.pdb
+C:\Users\Usuario\source\repos\EjemploCommand\EjemploCommand\obj\Debug\net5.0\EjemploCommand.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\EjemploCommand\EjemploCommand\obj\Debug\net5.0\EjemploCommand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\EjemploCommand\EjemploCommand\obj\Debug\net5.0\EjemploCommand.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\EjemploCommand\EjemploCommand\obj\Debug\net5.0\EjemploCommand.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\EjemploCommand\EjemploCommand\obj\Debug\net5.0\EjemploCommand.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EjemploCommand\EjemploCommand\obj\Debug\net5.0\EjemploCommand.dll
+C:\Users\Usuario\source\repos\EjemploCommand\EjemploCommand\obj\Debug\net5.0\ref\EjemploCommand.dll
+C:\Users\Usuario\source\repos\EjemploCommand\EjemploCommand\obj\Debug\net5.0\EjemploCommand.pdb
+C:\Users\Usuario\source\repos\EjemploCommand\EjemploCommand\obj\Debug\net5.0\EjemploCommand.genruntimeconfig.cache
